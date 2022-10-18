@@ -1,0 +1,817 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 24,
+                "distance": 0.022742574504875244
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.704512325533,
+                    1.34063599253795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_24",
+                "distance": 0.022742574504875244
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.704512325533,
+                    1.34063599253795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 7,
+                "distance": 0.05821813196530137
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.739242870677,
+                    1.33289451520808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_7",
+                "distance": 0.05821813196530137
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.739242870677,
+                    1.33289451520808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 12,
+                "distance": 0.06618948492495123
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.749274500587,
+                    1.34970832762173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_12",
+                "distance": 0.06618948492495123
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.749274500587,
+                    1.34970832762173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 27,
+                "distance": 0.07197478640422487
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.745039269848,
+                    1.38495919705382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_27",
+                "distance": 0.07197478640422487
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.745039269848,
+                    1.38495919705382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 28,
+                "distance": 0.08719193300701826
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764350064878,
+                    1.37993637366735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_28",
+                "distance": 0.08719193300701826
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764350064878,
+                    1.37993637366735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 16,
+                "distance": 0.08774460315895827
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764305614552,
+                    1.31506201647581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_16",
+                "distance": 0.08774460315895827
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764305614552,
+                    1.31506201647581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 8,
+                "distance": 0.13208202276702363
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805520397172,
+                    1.29871263170447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_8",
+                "distance": 0.13208202276702363
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805520397172,
+                    1.29871263170447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 9,
+                "distance": 0.1352902902350229
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.786927526354,
+                    1.43503700134939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_9",
+                "distance": 0.1352902902350229
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.786927526354,
+                    1.43503700134939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 5,
+                "distance": 0.1622055916949099
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82163145796,
+                    1.26392174964736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_5",
+                "distance": 0.1622055916949099
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82163145796,
+                    1.26392174964736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 22,
+                "distance": 0.1637299359940498
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839669047112,
+                    1.30040819039694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_22",
+                "distance": 0.1637299359940498
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839669047112,
+                    1.30040819039694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 1,
+                "distance": 0.16462591974919155
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845580674824,
+                    1.37479006912036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_1",
+                "distance": 0.16462591974919155
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845580674824,
+                    1.37479006912036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 3,
+                "distance": 0.16574769926953684
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848840445413,
+                    1.3498506667736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_3",
+                "distance": 0.16574769926953684
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848840445413,
+                    1.3498506667736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 6,
+                "distance": 0.16850954369692242
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85096929438,
+                    1.33362463556477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_6",
+                "distance": 0.16850954369692242
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85096929438,
+                    1.33362463556477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 10,
+                "distance": 0.16906775505182092
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819498553738,
+                    1.44819664827432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_10",
+                "distance": 0.16906775505182092
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819498553738,
+                    1.44819664827432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 2,
+                "distance": 0.17305151097351673
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835803458095,
+                    1.42971547356642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_2",
+                "distance": 0.17305151097351673
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835803458095,
+                    1.42971547356642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 15,
+                "distance": 0.1736867210247753
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844942912669,
+                    1.28526073700342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_15",
+                "distance": 0.1736867210247753
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844942912669,
+                    1.28526073700342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 20,
+                "distance": 0.17423558686266064
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848436882843,
+                    1.29332950881488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_20",
+                "distance": 0.17423558686266064
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848436882843,
+                    1.29332950881488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 4,
+                "distance": 0.17853816199952793
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854234798536,
+                    1.29742018061931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_4",
+                "distance": 0.17853816199952793
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854234798536,
+                    1.29742018061931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 18,
+                "distance": 0.17865062493254308
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854287271717,
+                    1.29720240914801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_18",
+                "distance": 0.17865062493254308
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854287271717,
+                    1.29720240914801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 26,
+                "distance": 0.18243588569432162
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855770250108,
+                    1.28941165551051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_26",
+                "distance": 0.18243588569432162
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855770250108,
+                    1.28941165551051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 21,
+                "distance": 0.1891724883018843
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.872256917786,
+                    1.35072709374027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_21",
+                "distance": 0.1891724883018843
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.872256917786,
+                    1.35072709374027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 23,
+                "distance": 0.20507207920793596
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.885837273218,
+                    1.31744297942455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_23",
+                "distance": 0.20507207920793596
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.885837273218,
+                    1.31744297942455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 11,
+                "distance": 0.21118925732169572
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89233759449,
+                    1.31965507968024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_11",
+                "distance": 0.21118925732169572
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89233759449,
+                    1.31965507968024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 0,
+                "distance": 0.21206900744503968
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.893775348884,
+                    1.3725726449182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_0",
+                "distance": 0.21206900744503968
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.893775348884,
+                    1.3725726449182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 13,
+                "distance": 0.21606353573896708
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.894771922697,
+                    1.39164107310365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_13",
+                "distance": 0.21606353573896708
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.894771922697,
+                    1.39164107310365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 14,
+                "distance": 0.23049202805549854
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.909449777954,
+                    1.30479881590908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_14",
+                "distance": 0.23049202805549854
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.909449777954,
+                    1.30479881590908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 17,
+                "distance": 0.24950288495576656
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.931691125839,
+                    1.32698939805286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_17",
+                "distance": 0.24950288495576656
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.931691125839,
+                    1.32698939805286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 19,
+                "distance": 0.2572182197024205
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.940268994596,
+                    1.35333197430091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_19",
+                "distance": 0.2572182197024205
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.940268994596,
+                    1.35333197430091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": 25,
+                "distance": 0.2674241865387307
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.949439880186,
+                    1.37235750960519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "index": "closest_point_25",
+                "distance": 0.2674241865387307
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.949439880186,
+                    1.37235750960519
+                ]
+            }
+        }
+    ]
+}

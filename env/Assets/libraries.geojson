@@ -1,0 +1,795 @@
+{
+    "type": "FeatureCollection",
+    "name": "LIBRARIES",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cheng San Public Library",
+                "description": "CSPL",
+                "ADDRESSBLOCKHOUSENUMBER": "90",
+                "ADDRESSBUILDINGNAME": "Hougang Mall",
+                "ADDRESSSTREETNAME": "Hougang Avenue 10",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "34728.1",
+                "LANDYADDRESSPOINT": "39397.71",
+                "ADDRESSPOSTALCODE": "538766",
+                "ADDRESSFLOORNUMBER": "3",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/288\/Default.aspx?branch=Cheng+San+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/ChengSan\/MAIN-CSPL-cropped.jpg",
+                "INC_CRC": "0F9DCF3218E57956",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": "11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.893775348884006,
+                    1.3725726449182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ang Mo Kio Public Library",
+                "description": "AMPL",
+                "ADDRESSBLOCKHOUSENUMBER": "4300",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Ang Mo Kio Avenue 6",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "29364.62",
+                "LANDYADDRESSPOINT": "39642.82",
+                "ADDRESSPOSTALCODE": "569842",
+                "ADDRESSFLOORNUMBER": null,
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/332\/Default.aspx?branch=Ang+Mo+Kio+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/AngMoKio\/MAIN-PICTURE-of-AMPL-cropped.jpg",
+                "INC_CRC": "49A106793207FD9B",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845580674824006,
+                    1.37479006912036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Yishun Public Library",
+                "description": "YIPL",
+                "ADDRESSBLOCKHOUSENUMBER": "930",
+                "ADDRESSBUILDINGNAME": "Northpoint City (North Wing)",
+                "ADDRESSSTREETNAME": "Yishun Ave 2",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "28276.53",
+                "LANDYADDRESSPOINT": "45716.19",
+                "ADDRESSPOSTALCODE": "769098",
+                "ADDRESSFLOORNUMBER": "4",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/320\/Default.aspx?branch=Yishun+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/Yishun\/MAIN-YIPL-cropped.jpg",
+                "INC_CRC": "19593E1A8CD0A4F9",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.835803458095,
+                    1.42971547356642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bishan Public Library",
+                "description": "BIPL",
+                "ADDRESSBLOCKHOUSENUMBER": "5",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Bishan Place",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "29727.41",
+                "LANDYADDRESSPOINT": "36885.15",
+                "ADDRESSPOSTALCODE": "579841",
+                "ADDRESSFLOORNUMBER": "1",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/312\/Default.aspx?branch=Bishan+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/Bishan\/MAIN-BIPL-cropped.jpg",
+                "INC_CRC": "DD6EBE6BCBDA2B6A",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848840445413003,
+                    1.3498506667736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Central Public Library",
+                "description": "CTPL",
+                "ADDRESSBLOCKHOUSENUMBER": "100",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Victoria Street (Basement 1)",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "30327.79",
+                "LANDYADDRESSPOINT": "31087.66",
+                "ADDRESSPOSTALCODE": "188064",
+                "ADDRESSFLOORNUMBER": null,
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/289\/Default.aspx?branch=Central+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/Central\/MAIN-CTPL-cropped.jpg",
+                "INC_CRC": "079B4C978A2FD7D7",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854234798535998,
+                    1.29742018061931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Harbour Front Public Library",
+                "description": "HBPL",
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "ADDRESSBUILDINGNAME": "VivoCity",
+                "ADDRESSSTREETNAME": "Harbourfront Walk",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "26699.31",
+                "LANDYADDRESSPOINT": "27383.57",
+                "ADDRESSPOSTALCODE": "98585",
+                "ADDRESSFLOORNUMBER": "3",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/362\/Default.aspx?branch=library%40harbourfront",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/harbourfront\/main_library_harbourfront.jpg",
+                "INC_CRC": "11A10CC261890319",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.821631457959995,
+                    1.26392174964736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Toa Payoh Public Library",
+                "description": "TPPL",
+                "ADDRESSBLOCKHOUSENUMBER": "6",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Toa Payoh Central",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "29964.34",
+                "LANDYADDRESSPOINT": "35090.96",
+                "ADDRESSPOSTALCODE": "319191",
+                "ADDRESSFLOORNUMBER": null,
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/319\/Default.aspx?branch=Toa+Payoh+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/ToaPayoh\/MAIN-TPPL-cropped.jpg",
+                "INC_CRC": "2220835A54DC0E75",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850969294379993,
+                    1.33362463556477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jurong Regional Library",
+                "description": "JRL",
+                "ADDRESSBLOCKHOUSENUMBER": "21",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Jurong East Central 1",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "17530.350000000002",
+                "LANDYADDRESSPOINT": "35010.42",
+                "ADDRESSPOSTALCODE": "609732",
+                "ADDRESSFLOORNUMBER": null,
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/338\/Default.aspx?branch=Jurong+Regional+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/JurongReg\/MAIN-JRL-cropped.jpg",
+                "INC_CRC": "05997B48A04A4AFB",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.739242870677003,
+                    1.33289451520808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Queenstown Public Library",
+                "description": "QUPL",
+                "ADDRESSBLOCKHOUSENUMBER": "53",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Margaret Drive",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "24906.31",
+                "LANDYADDRESSPOINT": "31230.58",
+                "ADDRESSPOSTALCODE": "149297",
+                "ADDRESSFLOORNUMBER": null,
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/309\/Default.aspx?branch=Queenstown+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/QueensTown\/Main-QUPL_Cropped.jpg",
+                "INC_CRC": "A20D81A06AB5E734",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805520397172003,
+                    1.29871263170447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Woodlands Regional Library",
+                "description": "WRL",
+                "ADDRESSBLOCKHOUSENUMBER": "900",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "South Woodlands Drive",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "22837.38",
+                "LANDYADDRESSPOINT": "46304.67",
+                "ADDRESSPOSTALCODE": "730900",
+                "ADDRESSFLOORNUMBER": "1",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/310\/Default.aspx?branch=Woodlands+Regional+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/WoodlandsReg\/MAIN-WRL-cropped.jpg",
+                "INC_CRC": "4B0F79234B61B0D3",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.786927526354006,
+                    1.43503700134939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sembawang Public Library",
+                "description": "SBPL",
+                "ADDRESSBLOCKHOUSENUMBER": "30",
+                "ADDRESSBUILDINGNAME": "Sun Plaza",
+                "ADDRESSSTREETNAME": "Sembawang Drive",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "26462.05",
+                "LANDYADDRESSPOINT": "47759.75",
+                "ADDRESSPOSTALCODE": "757713",
+                "ADDRESSFLOORNUMBER": "5",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/331\/Default.aspx?branch=Sembawang+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/Sembawang\/SBPL_entrance.jpg",
+                "INC_CRC": "5981D9ABA61AAEEB",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819498553738001,
+                    1.44819664827432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The LLiBrary",
+                "description": "WDALLI",
+                "ADDRESSBLOCKHOUSENUMBER": "11",
+                "ADDRESSBUILDINGNAME": "Lifelong Learning Institute",
+                "ADDRESSSTREETNAME": "Eunos Road 8",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "34568.237",
+                "LANDYADDRESSPOINT": "33546.349",
+                "ADDRESSPOSTALCODE": "408601",
+                "ADDRESSFLOORNUMBER": "3",
+                "HYPERLINK": "https:\/\/www.nlb.gov.sg\/VisitUs\/TheLLiBrary.aspx",
+                "PHOTOURL": "www.nlb.gov.sg\/portals\/0\/IMG\/VisitUs\/wda.jpg",
+                "INC_CRC": "B3F7234E2ABB9B02",
+                "FMEL_UPD_D": "20210819153720",
+                "ADDRESSUNITNUMBER": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.892337594490002,
+                    1.31965507968024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bukit Batok Public Library",
+                "description": "BBPL",
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "ADDRESSBUILDINGNAME": "West Mall",
+                "ADDRESSSTREETNAME": "Bukit Batok Central Link",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "18646.831",
+                "LANDYADDRESSPOINT": "36869.567",
+                "ADDRESSPOSTALCODE": "658713",
+                "ADDRESSFLOORNUMBER": "3",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/286\/Default.aspx?branch=Bukit+Batok+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/BukitBatok\/MAIN-BBPL-cropped.jpg",
+                "INC_CRC": "348FF13199721E9F",
+                "FMEL_UPD_D": "20210819153720",
+                "ADDRESSUNITNUMBER": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.749274500587006,
+                    1.34970832762173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sengkang Public Library",
+                "description": "SKPL",
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "ADDRESSBUILDINGNAME": "Compass One",
+                "ADDRESSSTREETNAME": "Sengkang Square",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "34838.952",
+                "LANDYADDRESSPOINT": "41506.204",
+                "ADDRESSPOSTALCODE": "545078",
+                "ADDRESSFLOORNUMBER": "3",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/341\/Default.aspx?branch=Sengkang+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/Senkang\/SKPL%20Main.JPG",
+                "INC_CRC": "98263D800C61B1A7",
+                "FMEL_UPD_D": "20210819153720",
+                "ADDRESSUNITNUMBER": "28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.894771922697004,
+                    1.39164107310365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Marine Parade Public Library",
+                "description": "MPPL",
+                "ADDRESSBLOCKHOUSENUMBER": "278",
+                "ADDRESSBUILDINGNAME": "Marine Parade Community Building",
+                "ADDRESSSTREETNAME": "Marine Parade Road",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "36472.706",
+                "LANDYADDRESSPOINT": "31903.670000000002",
+                "ADDRESSPOSTALCODE": "449282",
+                "ADDRESSFLOORNUMBER": "1",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/324\/Default.aspx?branch=Marine+Parade+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/MarineParade\/MAIN-MPPL-cropped.jpg",
+                "INC_CRC": "0CB25558AA904AAD",
+                "FMEL_UPD_D": "20210819153720",
+                "ADDRESSUNITNUMBER": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.909449777953995,
+                    1.30479881590908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "library@chinatown",
+                "description": "CNPL",
+                "ADDRESSBLOCKHOUSENUMBER": "133",
+                "ADDRESSBUILDINGNAME": "Chinatown Point",
+                "ADDRESSSTREETNAME": "New Bridge Road",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "29293.6915",
+                "LANDYADDRESSPOINT": "29743.124799999998",
+                "ADDRESSPOSTALCODE": "59413",
+                "ADDRESSFLOORNUMBER": "4",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/322\/Default.aspx?branch=library%40chinatown",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/Chinatown\/MAIN-CNPL-cropped.jpg",
+                "INC_CRC": "9484A7B981D3AEE1",
+                "FMEL_UPD_D": "20210819153720",
+                "ADDRESSUNITNUMBER": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844942912668998,
+                    1.28526073700342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clementi Public Library",
+                "description": "CMPL",
+                "ADDRESSBLOCKHOUSENUMBER": "3155",
+                "ADDRESSBUILDINGNAME": "The Clementi Mall",
+                "ADDRESSSTREETNAME": "Commonwealth Avenue West",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "20319.52",
+                "LANDYADDRESSPOINT": "33038.5",
+                "ADDRESSPOSTALCODE": "129588",
+                "ADDRESSFLOORNUMBER": "5",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/296\/Default.aspx?branch=Clementi+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/Clementi\/MAIN-CMPL-cropped.jpg",
+                "INC_CRC": "CF4E46F066452344",
+                "FMEL_UPD_D": "20210819153720",
+                "ADDRESSUNITNUMBER": "13-15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764305614552001,
+                    1.31506201647581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bedok Public Library",
+                "description": "BEPL",
+                "ADDRESSBLOCKHOUSENUMBER": "11",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Bedok North St. 1",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "38947.87",
+                "LANDYADDRESSPOINT": "34357.48",
+                "ADDRESSPOSTALCODE": "469662",
+                "ADDRESSFLOORNUMBER": "2",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/330\/Default.aspx?branch=Bedok+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/Bedok\/BEPL_main_facade.jpg",
+                "INC_CRC": "D837A37BA4453A5E",
+                "FMEL_UPD_D": "20210819153720",
+                "ADDRESSUNITNUMBER": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.931691125838995,
+                    1.32698939805286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "National Library",
+                "description": "LKCRL",
+                "ADDRESSBLOCKHOUSENUMBER": "100",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Victoria Street (Level 7-13)",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "30333.63",
+                "LANDYADDRESSPOINT": "31063.58",
+                "ADDRESSPOSTALCODE": "188064",
+                "ADDRESSFLOORNUMBER": null,
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/329\/Default.aspx?branch=National+Library+%2f+Lee+Kong+Chian+Reference+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/IMG\/Managers\/NL%20Visit%20Us%20Photo.jpg",
+                "INC_CRC": "6A4F1C1895FAA358",
+                "FMEL_UPD_D": "20210819153720",
+                "ADDRESSUNITNUMBER": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854287271716998,
+                    1.29720240914801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tampines Regional Library",
+                "description": "TRL",
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "ADDRESSBUILDINGNAME": "Our Tampines Hub",
+                "ADDRESSSTREETNAME": "Tampines Walk",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "39902.373999999996",
+                "LANDYADDRESSPOINT": "37270.352",
+                "ADDRESSPOSTALCODE": "528523",
+                "ADDRESSFLOORNUMBER": "2",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/335\/Default.aspx?branch=Tampines+Regional+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/TampinesReg\/Main_Entrance.jpg",
+                "INC_CRC": "2AB78A1FAA7AAB80",
+                "FMEL_UPD_D": "20210813143147",
+                "ADDRESSUNITNUMBER": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.940268994595996,
+                    1.35333197430091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "National Archives of Singapore",
+                "description": "NAS",
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Canning Rise",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "29682.53602",
+                "LANDYADDRESSPOINT": "30635.33001",
+                "ADDRESSPOSTALCODE": "179868",
+                "ADDRESSFLOORNUMBER": null,
+                "HYPERLINK": "https:\/\/www.nlb.gov.sg\/Visit\/LocationOpeningHours\/NationalArchives.aspx",
+                "PHOTOURL": "https:\/\/www.nlb.gov.sg\/Portals\/0\/IMG\/About\/About-NAS.jpg",
+                "INC_CRC": "554CD442AD6927E9",
+                "FMEL_UPD_D": "20210813143147",
+                "ADDRESSUNITNUMBER": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848436882843004,
+                    1.29332950881488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Serangoon Public Library",
+                "description": "SRPL",
+                "ADDRESSBLOCKHOUSENUMBER": "23",
+                "ADDRESSBUILDINGNAME": "NEX",
+                "ADDRESSSTREETNAME": "Serangoon Central",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "32333.4",
+                "LANDYADDRESSPOINT": "36982.090000000004",
+                "ADDRESSPOSTALCODE": "556083",
+                "ADDRESSFLOORNUMBER": "4",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/342\/Default.aspx?branch=Serangoon+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/Serangoon\/MAIN-SRPL-cropped.jpg",
+                "INC_CRC": "14A27BA632A157E6",
+                "FMEL_UPD_D": "20190429101416",
+                "ADDRESSUNITNUMBER": "82-83"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.872256917786004,
+                    1.35072709374027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "library@orchard",
+                "description": "OCPL",
+                "ADDRESSBLOCKHOUSENUMBER": "277",
+                "ADDRESSBUILDINGNAME": "Orchard Gateway",
+                "ADDRESSSTREETNAME": "Orchard Road",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "28706.75",
+                "LANDYADDRESSPOINT": "31418.05",
+                "ADDRESSPOSTALCODE": "238858",
+                "ADDRESSFLOORNUMBER": "3",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/337\/Default.aspx?branch=library%40orchard",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/Orchard\/OCPL_main.jpg",
+                "INC_CRC": "C407699EBC5E051F",
+                "FMEL_UPD_D": "20190429101416",
+                "ADDRESSUNITNUMBER": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839669047111997,
+                    1.30040819039694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Geylang East Public Library",
+                "description": "GEPL",
+                "ADDRESSBLOCKHOUSENUMBER": "50",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Geylang East Ave 1",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "33844.82",
+                "LANDYADDRESSPOINT": "33301.73",
+                "ADDRESSPOSTALCODE": "389777",
+                "ADDRESSFLOORNUMBER": null,
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/328\/Default.aspx?branch=Geylang+East+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/Geylang\/MAIN-GEPL-cropped.jpg",
+                "INC_CRC": "30D87253D8E26004",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.885837273218002,
+                    1.31744297942455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jurong West Public Library",
+                "description": "JWPL",
+                "ADDRESSBLOCKHOUSENUMBER": "60",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Jurong West Central 3",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "13665.24",
+                "LANDYADDRESSPOINT": "35866.61",
+                "ADDRESSPOSTALCODE": "648346",
+                "ADDRESSFLOORNUMBER": "1",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/302\/Default.aspx?branch=Jurong+West+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/JurongWest\/MAIN-JWPL-cropped.jpg",
+                "INC_CRC": "D1BB0FDF8C695C1B",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.704512325533003,
+                    1.34063599253795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pasir Ris Public Library",
+                "description": "PRPL",
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "ADDRESSBUILDINGNAME": "White Sands",
+                "ADDRESSSTREETNAME": "Pasir Ris Central St 3",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "40922.89",
+                "LANDYADDRESSPOINT": "39374.15",
+                "ADDRESSPOSTALCODE": "518457",
+                "ADDRESSFLOORNUMBER": "4",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/325\/Default.aspx?branch=Pasir+Ris+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/PasirRis\/MAIN-PRPL-small.jpg",
+                "INC_CRC": "547D68A62EB32095",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.949439880186006,
+                    1.37235750960519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "library@esplanade",
+                "description": "EPPL",
+                "ADDRESSBLOCKHOUSENUMBER": "8",
+                "ADDRESSBUILDINGNAME": null,
+                "ADDRESSSTREETNAME": "Raffles Avenue",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "30498.68",
+                "LANDYADDRESSPOINT": "30202.12",
+                "ADDRESSPOSTALCODE": "39802",
+                "ADDRESSFLOORNUMBER": "3",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/336\/Default.aspx?branch=library%40esplanade",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/esplanade\/MAIN-EPPL.JPG",
+                "INC_CRC": "A4EE2C882B98CE9B",
+                "FMEL_UPD_D": "20170814153343",
+                "ADDRESSUNITNUMBER": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855770250107994,
+                    1.28941165551051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chua Chu Kang Public Library",
+                "description": "CCKPL",
+                "ADDRESSBLOCKHOUSENUMBER": "21",
+                "ADDRESSBUILDINGNAME": "Lot One",
+                "ADDRESSSTREETNAME": "Choa Chu Kang Avenue 4",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "18175.64",
+                "LANDYADDRESSPOINT": "40767.450000000004",
+                "ADDRESSPOSTALCODE": "689812",
+                "ADDRESSFLOORNUMBER": "4",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/295\/Default.aspx?branch=Choa+Chu+Kang+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/ChoaChuKang\/MAIN-CCKPL-cropped.jpg",
+                "INC_CRC": "8731508A1219090E",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.745039269847993,
+                    1.38495919705382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bukit Panjang Public Library",
+                "description": "BPPL",
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "ADDRESSBUILDINGNAME": "Bukit Panjang Plaza",
+                "ADDRESSSTREETNAME": "Jelebu Road",
+                "ADDRESSTYPE": null,
+                "LANDXADDRESSPOINT": "20324.670000000002",
+                "LANDYADDRESSPOINT": "40211.98",
+                "ADDRESSPOSTALCODE": "677743",
+                "ADDRESSFLOORNUMBER": "4",
+                "HYPERLINK": "http:\/\/www.nlb.gov.sg\/VisitUs\/BranchDetails\/tabid\/140\/bid\/292\/Default.aspx?branch=Bukit+Panjang+Public+Library",
+                "PHOTOURL": "http:\/\/www.nlb.gov.sg\/Portals\/0\/library\/gallery\/BukitPanjang\/BPPL_main_Img_resized.jpg",
+                "INC_CRC": "87CC461B1702CF3B",
+                "FMEL_UPD_D": "20190424094745",
+                "ADDRESSUNITNUMBER": "16-17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764350064878002,
+                    1.37993637366735
+                ]
+            }
+        }
+    ]
+}
